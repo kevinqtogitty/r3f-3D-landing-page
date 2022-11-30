@@ -1,0 +1,15 @@
+:root {
+  height: 100%;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  height: 100%;
+}
+
+.canvasFulLScreened {
+  height: 100vh;
+  background-color: black;
+}
